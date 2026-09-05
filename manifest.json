@@ -1,15 +1,20 @@
 {
-  "name": "Yeni Web Uygulaması",
-  "short_name": "YeniWeb",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
-  "icons": [
+  "isim": "Yeni Web Uygulaması",
+  "kısa_isim": "YeniWeb",
+  "başlangıç_url": "index.html",
+  "görüntülemek": "bağımsız",
+  "arka_plan_rengi": "#ffffff",
+  "tema_rengi": "#000000",
+  "simgeler": [
     {
-      "src": "icon.png",
-      "sizes": "192x192",
-      "type": "image/png"
+      "kaynak": "icon.png",
+      "boyutlar": "192x192",
+      "tip": "image/png"
+    },
+    {
+      "kaynak": "icon.png",
+      "boyutlar": "512x512",
+      "tip": "image/png"
     }
   ]
 }
