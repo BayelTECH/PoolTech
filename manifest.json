@@ -1,6 +1,6 @@
 {
-  "name": "Yeni Web Uygulaması",
-  "short_name": "YeniWeb",
+  "name": "BayelTECH Uygulaması",
+  "short_name": "BayelTECH",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
